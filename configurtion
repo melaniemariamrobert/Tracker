@@ -1,0 +1,4 @@
+Need to run whenever an image,javascript or css and scss is run command = (python manage.py collectstatic)
+
+Todo: write a script
+
